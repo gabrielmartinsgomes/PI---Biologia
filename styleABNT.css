@@ -32,7 +32,7 @@ main {
 
 div {
   top: 150px;
-  height: 350px;
+  height: 2000px;
   width: 25%;
 }
 
@@ -71,23 +71,25 @@ a {
   }
 
   body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
   }
 
   p {
     line-height: 1cm;
-    margin-top: 2cm;
-    font-family: 'Roboto';
-    margin-left: 1cm;
+    margin-top: 3cm;
+    margin-bottom: 2cm;
+    margin-right: 2cm;
+    margin-left: 3cm;
     text-align: justify;
-    font-size: 27px;
+    font-size: 24px;
   }
 
   h1 {
-    font-family: 'Roboto';
+    margin-top: 3cm;
+    margin-bottom: 2cm;
+    margin-right: 2cm;
+    margin-left: 3cm;
     font-size: 50px;
-    margin-left: 1cm;
-    margin-top: 4cm;
     text-align: left;
   }
 
